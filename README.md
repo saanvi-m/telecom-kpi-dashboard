@@ -20,7 +20,7 @@ When analyzing the drivers of this churn, **Contract Type** emerged as the stron
 Furthermore, **Payment Method** plays a notable role in attrition. Users paying via Electronic Check represent the largest single payment cohort, but they also contribute to the highest volume of churned customers compared to Credit Card, Bank Transfer, or Mailed Checks. To improve retention, the business should focus on heavily incentivizing Month-to-Month users paying via Electronic Check to transition into 1-year contracts with automatic bank transfers.
 
 ## Screenshots
-*(You can drop your image files directly into your GitHub repository and link them here later!)*
+
 
 ![Overview Dashboard](Overview.png)
 ![Customer Segments](Customer_Segments.png)
